@@ -11,14 +11,14 @@ This classifier model is not optimal, it is just a testing model to create a fir
 Choose your own model and try to have the best predictions from your app with Flask.
 
 
-Dans cette application, nous essayons de classer les tweets en 3 classes: haineux, offensant et neutre.
+(Dans cette application, nous essayons de classer les tweets en 3 classes: haineux, offensant et neutre.
 
 Le **modèle de NLP** permettant de classer les tweets est Naive Bayes multinomiale avec un TfidfVectorizer pour le traitement préalable dans le **pipeline**.
 
 Vous verrez également un peu plus de prétraitement pour nettoyer les données.
 Ce modèle de classifieur lui-même n’est pas optimal, c’est juste un modèle de test pour créer une première application avec Flask.
 
-Choisissez votre propre modèle et essayez d'obtenir les meilleures prédictions de votre application avec Flask.
+Choisissez votre propre modèle et essayez d'obtenir les meilleures prédictions de votre application avec Flask.)
 
 
 
